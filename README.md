@@ -28,3 +28,5 @@ Went to go save the photo credit as a last task and getting errors. Will try and
 Updated VS.Code to version 1.99
 
 The message was telling me that certain files sich as .ds_store, images, and style.css were untracked files and to hit "git add" to add files and tracked. Now list of items turning up green in list.
+
+I think this was the same issue I had with my recipes document. What helped me solve this problem is I stopped, and SLOWLY read what the terminal was telling me. I broke it down sentence by sentence and tried to spot "instructions" in the text. I then made a step-by-step list on how to follow those instructions. I followed them slowly with no urgency and issue was solved. Great job!
