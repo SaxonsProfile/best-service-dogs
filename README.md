@@ -1,2 +1,30 @@
 # best-service-dogs
-A list of the best breeds to use as service dogs. 
+
+SETTING UP A PROJECT WITH GITHUB - April 7th 2025
+
+A list of the best breeds to use as service dogs.
+Added a repository on Github.
+Cloned the repository using HTTPS link.
+SSH link didn't really work. It just kept loading while HTTPS loaded instantly.
+It asked me to create a new folder in my computer to place my repository
+I then created an index.html file and added an images folder.
+I added a style.css folder but it merged the image/css folder into one. So I undid the css fyle.
+I opened the terminal and used the git status.
+Saw that my file was connected with git/github
+I also saw that I was in git bracnh main
+Typed in git branch Dev to create a new branch
+Typed git checkout Dev to move into that new folder
+Chcked github and saw that the folder was made.
+Typed in git status and saw I was in Dev folder
+Then I did the regular commit add, commit -m "" -m "" git push to move my saved items onto that branch
+Checked github and my branch was indeed made and my saved items were added to that branch as two commits.
+
+EDITING - April 9th 2025
+
+Added ul, photo, photo credit and saved all photos with no issue.
+
+Went to go save the photo credit as a last task and getting errors. Will try and solve.
+
+Updated VS.Code to version 1.99
+
+The message was telling me that certain files sich as .ds_store, images, and style.css were untracked files and to hit "git add" to add files and tracked. Now list of items turning up green in list.
