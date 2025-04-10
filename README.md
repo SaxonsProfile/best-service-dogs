@@ -32,3 +32,6 @@ The message was telling me that certain files sich as .ds_store, images, and sty
 I think this was the same issue I had with my recipes document. What helped me solve this problem is I stopped, and SLOWLY read what the terminal was telling me. I broke it down sentence by sentence and tried to spot "instructions" in the text. I then made a step-by-step list on how to follow those instructions. I followed them slowly with no urgency and issue was solved. Great job!
 
 Notes April 10th 2025
+Errors - Refereshed my page to view on the browser that I kept opened for last time. It showed an error so I closed that window and went live again and it fixed the issue of my labrador "best breed" section to show on the page.
+
+Uploaded an image of a lab and it didn't appear on the live server view. The link appears correct. Let me try a different image. It's not the image as I have tried multiple images. Found the solution. I wrote ../ and entered my image folder that way. When I just typed in "image" and grabbed my photo by writing that first, it worked.
