@@ -35,3 +35,10 @@ Notes April 10th 2025
 Errors - Refereshed my page to view on the browser that I kept opened for last time. It showed an error so I closed that window and went live again and it fixed the issue of my labrador "best breed" section to show on the page.
 
 Uploaded an image of a lab and it didn't appear on the live server view. The link appears correct. Let me try a different image. It's not the image as I have tried multiple images. Found the solution. I wrote ../ and entered my image folder that way. When I just typed in "image" and grabbed my photo by writing that first, it worked.
+
+EDITING April 12th 2025
+
+Adding a page called "Best breeds." I have added a link but when I click on it to go live on the website it does not work. The error says "Cannot GET /best-service-dogs/Pages/bestbreeds.html"
+
+I have git add /pages on the terminal.
+I then re-did my link as it picked up my page. I then added a title and lorem text and it showed up!
