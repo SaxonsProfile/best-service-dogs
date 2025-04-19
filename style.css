@@ -21,3 +21,7 @@ h2 {
     color:rgb(0, 0, 0); 
     line-height: 2.0em;
 }
+
+.second-paragraph {
+    line-height: 1.8em;
+}
