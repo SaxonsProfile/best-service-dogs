@@ -1,6 +1,6 @@
 
 body {
-    background-color: lavenderblush;
+    background-color: #ffffff; 
 }
 
 h1 {
@@ -9,4 +9,15 @@ h1 {
 
 h2 {
     color: #000000;
+
+}
+
+.first-paragraph {
+    line-height: 1.8em;
+}
+
+
+.header-bold {
+    color:rgb(0, 0, 0); 
+    line-height: 2.0em;
 }
