@@ -55,3 +55,31 @@ h2 {
     background-color: aquamarine;
     color: black;
 }
+
+.button3 {
+    background-color:khaki;
+    color: #000000;
+    font-size: 16px;
+    padding: 5px 6px;
+    border-radius: 4px;
+    border: 2px solid #000000;
+}
+
+.button3:hover {
+    background-color: aquamarine;
+    color: black;
+}
+
+.button4 {
+    background-color:khaki;
+    color: #000000;
+    font-size: 16px;
+    padding: 5px 6px;
+    border-radius: 4px;
+    border: 2px solid #000000;
+}
+
+.button4:hover {
+    background-color: aquamarine;
+    color: black;
+}

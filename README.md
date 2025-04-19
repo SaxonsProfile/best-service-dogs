@@ -46,3 +46,10 @@ I then re-did my link as it picked up my page. I then added a title and lorem te
 I have added another page called "service dogs in ontario" or sdontario." I have linked to the page from my homepage fine. I just made sure to add the page through the terminal. Linking back to index.html is giving this response from the browswer "Cannot GET /Pages/index.html" It's working now. Not sure what I did for the solution but I wrote the link to homepage from sdontario as "<a href="../index.html">Homepage</a>"
 
 I added another page called rightmatch.html and got the same problem as above. I came back and read my solution for the previous problem and typed it in as ../index.html and it worked when trying to link back to home page. All links are working now!
+
+April 19th 2025
+
+Changed background and spaced out lining on "header-bold" lines. It worked using CSS.
+Added line spacing on best breed page.
+Added buttons on index.html
+Made buttons pretty on main page
