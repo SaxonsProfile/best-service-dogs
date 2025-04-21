@@ -54,3 +54,8 @@ Added line spacing on best breed page.
 Added buttons on index.html
 Made buttons pretty on main page
 All in all, good day coding so far. Minimal to no errors.
+
+April 20th 2025
+
+Experimenting with the box model a little bit and adding borders
+Added aquamarine underline borders on index.html and best breeds page.
