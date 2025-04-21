@@ -53,3 +53,4 @@ Changed background and spaced out lining on "header-bold" lines. It worked using
 Added line spacing on best breed page.
 Added buttons on index.html
 Made buttons pretty on main page
+All in all, good day coding so far. Minimal to no errors.
